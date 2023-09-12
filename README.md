@@ -17,3 +17,11 @@ This code is based on the paper called Seizure_Detection_and_Prediction_by_Paral
 # Reference
 * A review of epileptic seizure detection using machine learning classifiers, Mohammad Khubeb Siddiqui
 * Seizure_Detection_and_Prediction_by_Parallel_Memristive_Convolutional_Neural_Networks
+
+# Dependency
+* numpy
+* statistics
+* pyedflib
+* sklearn
+* matplotlib
+* IPython
