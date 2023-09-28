@@ -24,7 +24,7 @@ _____
 
 # Reference
 * Siddiqui, M. K., Morales-Menendez, R., Huang, X., & Hussain, N. (2020). A review of epileptic seizure detection using machine learning classifiers. Brain informatics, 7(1), 1-18.
-* Li, C., Lammie, C., Amirsoleimani, A., Azghadi, M. R., & Genov, R. (2023). Simulation of memristive crossbar arrays for seizure detection and prediction using parallel Convolutional Neural Networks. Software Impacts, 15, 100473.
+* Li, C., Lammie, C., Amirsoleimani, A., Azghadi, M. R., & Genov, R. (2023). Simulation of memristive crossbar arrays for seizure detection and prediction using parallel Convolutional Neural Networks. Software Impacts, 15, 100473. [Source code](https://github.com/coreylammie/Memristive-Seizure-Detection-and-Prediction-by-Parallel-Convolutional-Neural-Networks/blob/master/network_training/CHBMIT.py)
 
 # Dependency
 * numpy
