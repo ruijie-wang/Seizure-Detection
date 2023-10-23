@@ -19,8 +19,16 @@ Data 9/24/2023 <br>
   * FeatureSelection: Calculating 8 features, using PCA reduce feature dimension into 64, Save (# sample, # feature) arrays. 
   * Network_Train_Evaluation: Applying saved metrix to train model created by paper's author and generate evaluation metrix. 
 _____
-
-
+Data 10/23/2023 <br>
+* Add Data folder
+  * Include seizure and non-seizure data for patient 01, 02, 07.
+* Preprocessing
+  * "Patient_Nonseizure.ipynb" calculating non-seizure period features.
+  * "patient_Seizure.ipynb" calculating siezure period(40min before the start of seizure) features. 
+* Update
+  * "Network_Train_Evaluatin.ipynb" adding confusion matrix, classification report. 
+  * "Functions.py" has all feature extraction methods.
+_____
 
 # Reference
 * Siddiqui, M. K., Morales-Menendez, R., Huang, X., & Hussain, N. (2020). A review of epileptic seizure detection using machine learning classifiers. Brain informatics, 7(1), 1-18.
